@@ -24,7 +24,11 @@ If the arrival of materials follow poisson process with mean interval time 12 se
 <img width="847" height="255" alt="image" src="https://github.com/user-attachments/assets/f5b78f76-ddef-4bcd-afee-044fb0babdc8" />
 
 # Program
+NAME:DARSHINI.R
 
+REG NO:25017318
+
+COLAB LINK:https://colab.research.google.com/drive/1TbrzJX2BRz8Dgi6T8VJoeNY5YyIrZzm-?usp=sharing
 
 ```
 
